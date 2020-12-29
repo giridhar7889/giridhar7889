@@ -1,5 +1,6 @@
 ### Hi there It's me Giridhar 👋
 
+[![HitCount](http://hits.dwyl.com/giridhar7889/giridhar7889.svg)](http://hits.dwyl.com/giridhar7889/giridhar7889)
 
 Gist about me .
 
