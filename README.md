@@ -9,8 +9,7 @@ Gist about me .
 - 🤔 I’m looking for people to work on some cool stuff.
 - 💬 I am an active memeber of space exploration project group of space generation advisory council.
 - 📫 How to reach me: <a href="mailto:giridhar7889@gmail.com">Let's get in touch !</a>
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ i live by this : "He who has a why to live can bear almost any how".
 
 
 ## Other places you can find me 
