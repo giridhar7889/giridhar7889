@@ -10,7 +10,7 @@ Gist about me .
 - 🤔 I’m looking for people to work on some cool stuff.
 - 💬 I am an active memeber of space exploration project group of space generation advisory council.
 - 📫 How to reach me: <a href="mailto:giridhar7889@gmail.com">Let's get in touch !</a>
-- ⚡ i live by this : "He who has a why to live can bear almost any how".
+- ⚡ I currently trade cryptocurrency and an official member of discord coinmarketcap server.
 
 
 ## Other places you can find me 
@@ -22,6 +22,5 @@ Linkedin:-  [giridharjadala](https://www.linkedin.com/in/giridhar-jadala-313b961
 ## 
 
 I am currently pursuing Bachelor of Technology (BTech) in Computer science 2019-2023.
-I use the DJANGO framework for backend development to create an extremely secure and brief website. When it comes to software development I am thoroughly skillful in writing effienent algorithms and programming in a way that is fit and sensible.I have a good understanding of blockchain technology and i might go after it. Apart from programming, I spend my time learning the vastness of space and time to unlock the secrets of the universe. It may sound crazy but if we find the answer to those questions, it would be the ultimate triumph of human reason. I am eager to provide reliable and consistent results that are indestructible and solid.
-
+I use the DJANGO framework for backend development to create an extremely secure and brief website. When it comes to software development I am thoroughly skillful in writing effienent algorithms and programming in a way that is fit and sensible.I have a good understanding of blockchain technology and i might go after it. Apart from programming, I spend my time learning the vastness of space and time to unlock the secrets of the universe.I started trading crypto currencies mainly foucing on alt coins,so feel free to talk to me about cryptos and space related stuff.
 See ya , Have fun.
