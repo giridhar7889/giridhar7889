@@ -6,7 +6,7 @@ Gist about me .
 
 - 🔭 I’m passionate about space technology.
 - 🌱 Learning everyday,currently working on backend development.
-- 👯 I’m always looking for challenging work opportunities ahead.
+- 👯 I'm currently working on a blockchain platform and a moblie less payment system .
 - 🤔 I’m looking for people to work on some cool stuff.
 - 💬 I am an active memeber of space exploration project group of space generation advisory council.
 - 📫 How to reach me: <a href="mailto:giridhar7889@gmail.com">Let's get in touch !</a>
