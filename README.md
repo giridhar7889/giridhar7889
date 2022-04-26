@@ -15,9 +15,15 @@ Gist about me .
 
 ## Other places you can find me 
 
+Linkedin:-  [giridharjadala](https://www.linkedin.com/in/giridhar-jadala-313b96192/)
+
+leetcode:-  [giridhar7889](https://leetcode.com/giridhar7889/)
+
+Twitter:-  [@giridhar7889](https://twitter.com/giridhar7889) 
+
 Instagram:- [giridhar_jadala](https://www.instagram.com/giridhar_jadala/)
 
-Linkedin:-  [giridharjadala](https://www.linkedin.com/in/giridhar-jadala-313b96192/)
+
 
 ## 
 
