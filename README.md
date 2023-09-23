@@ -27,6 +27,6 @@ Instagram:- [giridhar_jadala](https://www.instagram.com/giridhar_jadala/)
 
 ## 
 
-I am currently pursuing Bachelor of Technology (BTech) in Computer science 2019-2023.
-I use the DJANGO framework for backend development to create an extremely secure and brief website. When it comes to software development I am thoroughly skillful in writing effienent algorithms and programming in a way that is fit and sensible.I have a good understanding of blockchain technology and i might go after it. Apart from programming, I spend my time learning the vastness of space and time to unlock the secrets of the universe.I started trading crypto currencies mainly foucing on alt coins,so feel free to talk to me about cryptos and space related stuff.
+I am a Graduate student at New York University pursing my Master's in computer science.
+I aspire to work in small teams to turn the best ideas into high-performing and resilient technology. With short development cycles where work rapidly goes into production. I'm passionate about software development and problem-solving. I'm well versed with foundations in coding fundamentals, data structures, and algorithms. I desire to create systems architectures, develop platforms and build web frameworks. I'm looking for an organization that provides state-of-the-art tools to apply innovative techniques including distributed computing, natural language processing, machine learning and more.
 See ya , Have fun.
