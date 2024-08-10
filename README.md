@@ -22,7 +22,4 @@ Instagram:- [giridhar_jadala](https://www.instagram.com/giridhar_jadala/)
 ## 
 
 I am a Graduate student at New York University pursing my Master's in computer science.
-I aspire to work in small teams to turn the best ideas into high-performing and resilient technology. With short development cycles where work rapidly goes into production. I'm passionate about software development and problem-solving. I'm well versed with foundations in coding fundamentals, data structures, and algorithms. I desire to create systems architectures, develop platforms and build web frameworks. I'm looking for an organization that provides state-of-the-art tools to apply innovative techniques including distributed computing, natural language processing, machine learning and more.Now, I'm on the hunt for a summer internship, seeking an innovative playground where ideas morph into tech marvels at warp speed. 
-
-If your company is the forge where innovation and imagination meld into a symphony of code, I'm ready to embark on this epic journey with you. Let's chat and chart a course to the future of tech! 🚀🌟
-See ya , Have fun.
+I aspire to work in small teams to turn the best ideas into high-performing and resilient technology. With short development cycles where work rapidly goes into production. I'm passionate about software development and problem-solving. I'm well versed with foundations in coding fundamentals, data structures, and algorithms. I'm looking for an organization that provides state-of-the-art tools to apply innovative techniques including distributed computing, High-performance algos, machine learning and more.Let's connect and explore how my skills can contribute to your company's mission and vision.
